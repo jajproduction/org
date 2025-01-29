@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e7682d57-e9b5-43d6-a0e2-70f4bdc36c36
+:END:
 #+title: MariaDB Setup
 #+author: Jaj Dollesin
 

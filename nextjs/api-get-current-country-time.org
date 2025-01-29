@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a16a22d5-8bcc-4c94-9074-6c38c8c75a71
+:END:
 #+title: Api Get Current Country Time
 #+author: Jaj Dollesin
 

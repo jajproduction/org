@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       dcf75508-3e9a-4562-a1b5-1062b9071ffd
+:END:
 #+title: Export Database
 #+author: Jaj Dollesin
 

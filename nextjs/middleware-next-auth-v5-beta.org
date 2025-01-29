@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       264e0674-26c6-4245-b388-9a0fdddac892
+:END:
 #+title: Middleware Next Auth V5 Beta
 #+author: Jaj Dollesin
 

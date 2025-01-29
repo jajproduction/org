@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       fecc2bd7-6a18-4ba7-887c-254238ed591e
+:END:
 #+title: Vscode Settings
 #+author: Jaj Dollesin
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f694bce5-f0af-482d-82fa-c4aa4d1f9a90
+:END:
 #+title: Sample Find Many
 #+author: Jaj Dollesin
 

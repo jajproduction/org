@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       8048f0d0-b619-4146-a81b-58c82887cd81
+:END:
 #+title: Delete Latest Commit
 #+author: Jaj Dollesin
 

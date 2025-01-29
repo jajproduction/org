@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       21a39bd4-6568-4ded-936f-d993d99f7ff0
+:END:
 #+title: Prisma Setup
 #+author: Jaj Dollesin
 

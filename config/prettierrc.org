@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b45e52bb-732f-4f9f-8638-6e4282c42030
+:END:
 #+title: Prettierrc
 #+author: Jaj Dollesin
 

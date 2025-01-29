@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7018645e-c51c-4c8a-a3d6-88efe3aa1319
+:END:
 #+title: Check Port
 #+author: Jaj Dollesin
 
